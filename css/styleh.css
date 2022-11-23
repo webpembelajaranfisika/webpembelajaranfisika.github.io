@@ -12,6 +12,9 @@ html,body {
 body {
   background: #e3f2fd;
 }
+.sidecontent ol li a{
+    text-decoration: none;
+}
 .nav {
   z-index: 1000;
   display: flex;

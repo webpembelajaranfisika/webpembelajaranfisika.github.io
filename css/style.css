@@ -12,7 +12,9 @@ html,body {
 body {
     background: #e3f2fd;
 }
-
+.sidecontent ol li a{
+    text-decoration: none;
+}
 .nav {
     overflow-x: hidden;
     z-index: 1000;
@@ -240,6 +242,7 @@ body {
 }
 .materisatu a{
     color: white;
+    text-decoration: none;
 }
 .materidua {
     display: flex;
@@ -255,6 +258,7 @@ body {
 }
 .materidua a{
     color: white;
+    text-decoration: none;
 }
 .materitiga {
     display: flex;
@@ -270,6 +274,7 @@ body {
 }
 .materitiga a{
     color: white;
+    text-decoration: none;
 }
 .materiempat {
     display: flex;
@@ -285,6 +290,7 @@ body {
 }
 .materiempat a{
     color: white;
+    text-decoration: none;
 }
 .materilima {
     display: flex;
@@ -300,6 +306,7 @@ body {
 }
 .materilima a{
     color: white;
+    text-decoration: none;
 }
 .footer {
     width: 100%;
@@ -387,6 +394,8 @@ body {
     width: 80px;
     width: 80px;
 }
+
+
 
 @keyframes pudar {
     0% {
